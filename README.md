@@ -1,6 +1,7 @@
 # Neurona Multifunción
 
 Este proyecto implementa una neurona con diferentes configuraciones con hasta 10 entradas, 10 pesos, 1 sesgo y tres funciones de activación diferentes: ReLU, Sigmoid y Tanh.
+<img width="250" height="300" src="images/neurona3.png">
 
 ## Contenido
 
@@ -11,9 +12,16 @@ Este proyecto implementa una neurona con diferentes configuraciones con hasta 10
 5. [Agradecimientos](#agradecimientos)
 
 ## Descripción
-<img width="250" height="300" src="images/neurona3.png">
+
 La aplicación "Neurona Multifunción" proporciona ejemplos interactivos de neuronas con diferentes configuraciones. Puedes visualizar y experimentar con neuronas de 1-10 entradas y pesos, así como sesgo y tres funciones distintas de activación.
+Podemos ver una captura de la pariencia de la aplicación y explicar brevemente su funcionamiento:
+- Tenemos un "slide bar" para elegir el número de entradas/pesos que tendrá la neurona.
+- A continuación en los "inputs box" podemos configurar el valor de los pesos y las entradas.
+- También podremos ajustar el sesgo.
+- Finalmente podemos elegir la función de activación deseada mediante un "selectbox".
+  
 <img src="images/neurona4.png">
+
 ## Estructura del Proyecto
 
 - `app.py`: Contiene el código principal de la aplicación con las implementaciones de las neuronas.
@@ -43,8 +51,8 @@ Asegúrate de tener instalados los siguientes paquetes antes de ejecutar la apli
 
 ## Agradecimientos
 
-Gracias por utilizar la aplicación "Hola Neurona". Si tienes alguna pregunta, puedes contactar al autor:
+Gracias por utilizar la aplicación "Neurona Multifunción". Si tienes alguna pregunta, puedes contactar al autor:
 
 
 Jesús Cánovas Barqueros
-Email: jesuscanovas3w@gmail.com.com
+Email: jesuscanovas3w@gmail.com
