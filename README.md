@@ -13,7 +13,7 @@ Este proyecto implementa una neurona con diferentes configuraciones con hasta 10
 ## Descripción
 <img width="250" height="300" src="images/neurona3.png">
 La aplicación "Neurona Multifunción" proporciona ejemplos interactivos de neuronas con diferentes configuraciones. Puedes visualizar y experimentar con neuronas de 1-10 entradas y pesos, así como sesgo y tres funciones distintas de activación.
-
+<img src="images/neurona4.png">
 ## Estructura del Proyecto
 
 - `app.py`: Contiene el código principal de la aplicación con las implementaciones de las neuronas.
