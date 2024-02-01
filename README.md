@@ -1,7 +1,9 @@
 # Neurona Multifunción
 
 Este proyecto implementa una neurona con diferentes configuraciones con hasta 10 entradas, 10 pesos, 1 sesgo y tres funciones de activación diferentes: ReLU, Sigmoid y Tanh.
+
 <img width="250" height="300" src="images/neurona3.png">
+
 
 ## Contenido
 
@@ -10,6 +12,7 @@ Este proyecto implementa una neurona con diferentes configuraciones con hasta 10
 3. [Requisitos](#requisitos)
 4. [Instrucciones de Uso](#instrucciones-de-uso)
 5. [Agradecimientos](#agradecimientos)
+   
 
 ## Descripción
 
@@ -17,10 +20,12 @@ La aplicación "Neurona Multifunción" proporciona ejemplos interactivos de neur
 Podemos ver una captura de la pariencia de la aplicación y explicar brevemente su funcionamiento:
 - Tenemos un "slide bar" para elegir el número de entradas/pesos que tendrá la neurona.
 - A continuación en los "inputs box" podemos configurar el valor de los pesos y las entradas.
+
+<img src="images/neurona4.png">
+
 - También podremos ajustar el sesgo.
 - Finalmente podemos elegir la función de activación deseada mediante un "selectbox".
-  
-<img src="images/neurona4.png">
+
 
 ## Estructura del Proyecto
 
@@ -29,12 +34,14 @@ Podemos ver una captura de la pariencia de la aplicación y explicar brevemente 
 - `images/`: Carpeta que contiene imágenes utilizadas en la aplicación.
 - `README.md`: Este archivo.
 
+
 ## Requisitos
 
 Asegúrate de tener instalados los siguientes paquetes antes de ejecutar la aplicación:
 
 - `pip install streamlit numpy`
 - `pip install streamlit pandas`
+
 
 ## Instrucciones de Uso
 
@@ -48,6 +55,7 @@ Asegúrate de tener instalados los siguientes paquetes antes de ejecutar la apli
 
 3. Ejecuta la aplicación:
 - `streamlit run app.py`
+
 
 ## Agradecimientos
 
